@@ -1,0 +1,36 @@
+h1,h2{
+    color:#4E220F;
+    text-align:center;
+    text-shadow: 2px 2px 4px #1a0909;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color:#F7F1DE;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.button{
+    background-color:#9D6638;
+    color:azure;
+    text-align:center;
+    text-shadow: 2px 2px 4px #1a0909;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+    display:block;
+    margin: 0 auto;
+    text-decoration:none;
+    cursor:pointer;
+}
+a{
+    text-decoration:none;
+}
+p{
+    color:#9D6638;
+    text-align:center;
+    text-decoration:none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+}
+hr{
+    border: 5px solid #9D6638;
+    margin: 20px 0;
+}
